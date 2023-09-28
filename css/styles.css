@@ -92,6 +92,12 @@ body {
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
+.profile-picture-box {
+  width: 500px;
+  height: 500px;
+  margin: 0 auto;
+  border: 1px solid black;
+}
 
 hr {
   margin: 1rem 0;
